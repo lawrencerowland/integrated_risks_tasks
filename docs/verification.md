@@ -10,6 +10,13 @@
 - Desktop screenshots inspected for the baseline wiring, cattle-first wiring and Euler picture. Hero and source pictures have descriptive text alternatives. Static diagrams remain present without JavaScript.
 - Local-link and source-image-hash checks pass; all six originals remain byte-identical.
 
+## Context-comb addition
+
+- The original “Project tasks in context” photograph is now prominent and remains byte-identical to its source. The generic SVG is a separate explanatory construction.
+- Independent conceptual review checked the two-stage handover types, allocation of exclusive resources, uncertainty across both process lanes, and the boundary between an ordinary typed process schematic and Capucci’s optic construction. The text distinguishes a completed composite from transition-enabling and waiting semantics.
+- Desktop screenshots inspected for the original/commentary pairing and the complete generic SVG. At a 390px viewport setting the page had no horizontal overflow; the large diagram scrolled independently by keyboard, and its formal explanation opened and wrapped within the page. The normal viewport was restored.
+- The ten existing model tests and local-link/original-hash checks passed. The executable model is unchanged.
+
 ## Evidence boundary
 
 These are model checks and agent-operated browser observations. There is no separate human-user test, engineering assurance or evidence of improved delivery outcomes.
