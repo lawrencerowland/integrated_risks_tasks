@@ -69,3 +69,8 @@ The first experiment is complete when it makes the proposition and its important
 6. Where does a contracted or supplier action belong in the intent/action nesting? How do cross-stakeholder benefits and threats change the picture?
 
 Agents may choose the strongest next bounded construction in pursuit of the End. An explanatory route back through the toy, actual diagrams and original papers is part of completion; greater formal ambition does not remove that obligation.
+
+
+## Explanatory addition — the context comb
+
+The original “Project tasks in context” photograph is now prominent with interpretive commentary. A corrected generic open schematic separates chosen project scope, continuing context, actual process mechanisms and uncertainty annotations. Two successive stages exchange through a typed handover; no resource is copied and no arbitrary feedback loop is assumed. This adds an explanatory route toward the End, without changing the first bounded model or claiming an optic implementation.

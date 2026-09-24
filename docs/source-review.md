@@ -38,3 +38,12 @@ The [public foray prompt](foray.md) identifies what is borrowed from each specif
 ## A deliberately small claim
 
 This prototype demonstrates the consequences of explicit token-resource rules. It does not prove all risk can be reduced to processes, that every diagram is a valid schedule, or that formalism improves real delivery. The next comparison should be with a simple resource table using the same assumptions.
+
+
+## The generic context comb — 24 September 2026
+
+The original context photograph now has a prominent, dedicated section rather than a place inside a disclosure. Its exact bytes remain unchanged. The interpretation of the green scope arch, lower resource/context cradle and reciprocal task/risk connections is explicitly a reconstruction of Lawrence's sketch.
+
+The new `assets/context-comb.svg` is a two-stage, left-to-right open process schematic. Project processes P1/P2 occupy openings in a continuing context. Setup, outside activity E1/E2, explicit joint handover H and result assessment make the surrounding comb visible. Scope/objectives are boundary/assessment annotations; uncertainty may concern either lane. No implicit resource fork or instantaneous feedback is asserted.
+
+The ordinary typed expression is `post ∘ (P2 ⊗ E2) ∘ H ∘ (P1 ⊗ E1) ∘ pre`. It assumes separately allocated inputs and no hidden exchange inside a parallel stage. Further interaction requires further stages. This explanatory construction is not the Capucci optic formalism or a new implementation of it; the existing farm-track transition model is unchanged.
