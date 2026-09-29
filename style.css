@@ -3,3 +3,6 @@
 .corrected-wiring{grid-template-columns:1fr}.corrected-wiring .diagram-scroll svg{min-width:850px}
 
 .comb-original{display:grid;grid-template-columns:minmax(0,1.8fr) minmax(240px,1fr);gap:28px;margin:30px 0;align-items:start}.comb-original img{border-radius:9px}.comb-reading{font-size:.96rem}.comb-reading p{margin:0 0 18px}.comb-diagram img{display:block;width:100%;min-width:950px;max-width:none}.original-plan{max-width:800px;margin-top:20px}@media(max-width:800px){.comb-original{grid-template-columns:1fr}.comb-reading{font-size:1rem}}
+
+/* Give first-time readers a direct route into the experiment. */
+.top{align-items:center;flex-wrap:wrap}.portfolio-nav{display:flex;flex-wrap:wrap;gap:18px}.intro-actions{display:flex;align-items:center;flex-wrap:wrap;gap:14px 24px;margin:22px 0 26px}.start-link{display:inline-flex;align-items:center;gap:18px;min-height:48px;padding:12px 20px;border-radius:8px;background:var(--green);color:#fff;font-weight:650;text-decoration:none}.start-link:hover{background:#284b40;color:#fff}
